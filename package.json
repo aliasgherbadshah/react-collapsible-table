@@ -1,0 +1,12 @@
+{
+  "name": "react-collapsible-table",
+  "version": "1.0.0",
+  "description": "React Responsive Table provide the responsive data table view with multiple collapsible feature.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ali asgher badshah <aliasgherbadshah128@gmail.com>",
+  "license": "ISC",
+  "homepage": "https://github.com/aliasgherbadshah"
+}
